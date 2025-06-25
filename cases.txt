@@ -218,8 +218,8 @@ Mykola Kyrychenko 3:24 PM
 Hi Sydney Collins, thanks for your message. how about to set a call and discuss milestones?
 Mykola Kyrychenko 3:38 PM
 It would be easier to do on call since timing and complexity of milestones would strongly depend on volume, type of data, accuracy required and business objectives you have
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-3:40 PM
+Mykola Kyrychenko 3:40 PM wants to schedule a 30-minute meeting
+
 Waiting for Sydney to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 You can choose a suitable time here, this week any time works except early morning your time tomorrow
@@ -494,9 +494,8 @@ ok
 Mykola Kyrychenko 7:20 PM
 Perfect, see you than
 Tuesday, Feb 13, 2024
-Mykola Kyrychenko created a recorded Zoom meeting
-6:00 PM
-The meeting ended (Duration: 07:20)
+Mykola Kyrychenko 6:00 PM created a recorded Zoom meeting
+The meeting ended (Duration:07:20)
 We'll let you know when the recording is ready.
 about recorded meetings
 Share feedback about the call quality
@@ -504,8 +503,8 @@ Hey Akash,
 I'm here
 Mykola Kyrychenko 6:08 PM
 Yeah we can
-The recording from the meeting on 2.13.2024(06:01 PM - 06:08 PM (GMT)) now available
-APP 6:12 PM
+The recording from the meeting on 2.13.2024(06:01PM - 06:08PM (GMT)) now available
+APP 6:12PM
 about recorded meetings
 Available until 2.20.2024
 Password: p8@ZjzEE
@@ -632,41 +631,39 @@ Friday, Jan 26, 2024
 DV
 Diego Victoria 9:23 AM
 Hello Mykola Kyrychenko Do you have any availability next week to discuss the project?
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-10:20 AM
+Mykola Kyrychenko 10:20 AM wants to schedule a 30-minute meeting
+
 Waiting for Diego to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Hey,
 Yes totally, you can choose the time above. Monday would be perfect
 DV
-Diego Victoria scheduled a meeting
-10:25 AM
+Diego Victoria 10:25 AM scheduled a meeting
 Date: Jan 29, 2024
-Time: 11:30 AM - 12:00 PM (GMT)
+Time: 11:30AM - 12:00PM (GMT)
 Cancel | Reschedule | Add to calendar
 Monday, Jan 29, 2024
 Zoom meeting starts in 30 minutes
-APP 11:00 AM
+APP 11:00AM
 Date: Jan 29, 2024
-Time: 11:30 AM - 12:00 PM (GMT)
+Time: 11:30AM - 12:00PM (GMT)
 Join meeting
 DV
-Diego Victoria created a recorded Zoom meeting
-11:24 AM
-The meeting ended (Duration: 29:13)
+Diego Victoria 11:24 AM created a recorded Zoom meeting
+The meeting ended (Duration:29:13)
 We'll let you know when the recording is ready.
 about recorded meetings
 Share feedback about the call quality
 Zoom meeting starts in 1 minute
-APP 11:29 AM
+APP 11:29AM
 Date: Jan 29, 2024
-Time: 11:30 AM - 12:00 PM (GMT)
+Time: 11:30AM - 12:00PM (GMT)
 Join meeting
 DV
-Diego Victoria 11:35 AM
+Diego Victoria 11:35AM
 IMG_1020.JPG
-The recording from the meeting on 1.29.2024(11:26 AM - 11:55 AM (GMT)) now available
-APP 11:59 AM
+The recording from the meeting on 1.29.2024(11:26AM - 11:55AM (GMT)) now available
+APP 11:59AM
 about recorded meetings
 Available until 2.5.2024
 Password: @6j6pYVw
@@ -1106,7 +1103,7 @@ CosmosDB and utilized LangSmith for rigorous platform evaluation.
 Looking forward to your reply and wishing you the best with your project!
 View details
 CN
-chris needham 3:57 PM
+Chris Needham 3:57 PM
 Hi Mykola,
 Thank you for responding to my request. Would you be kind enough to list out the type of AI Agent Services you would be able to create and have created in the past?
 Ultimately I am looking to create a community of AI Agent developers that will be able to sell AI Agent services, I just need a list of the type of services our community is able to develop.
@@ -2261,8 +2258,7 @@ Thanks Mykola and looking forward to meeting soon!
 Best,
 Nick
 Monday, Jan 06
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-1:27 PM
+Mykola Kyrychenko 1:27 PM wants to schedule a 30-minute meeting
 Waiting for Nick to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Hey Nick!
@@ -2270,10 +2266,10 @@ Likewise, nice to meet you:)
 That sounds like an interesting project you are doing, not many people yet combine Agents with CV, seems intriguing.
 Sent a calendar invite. Thursday would be the best for me if it works
 ND
-Nick Lim scheduled a meeting
-1:35 PM
+Nick Lim 1:35 PM scheduled a meeting
+
 Date: Jan 10, 2025
-Time: 10:00 AM - 10:30 AM (GMT)
+Time: 10:00AM - 10:30AM (GMT)
 Cancel | Reschedule | Add to calendar
 Hey Mykola! Great to meet you. 😄 Sounds perfect! For Thursday, I can’t find a time that works for UK time but let me know if 10am your time works on Friday. Thanks Mykola and looking forward to meeting soon!
 Best,
@@ -2383,19 +2379,17 @@ Friday works for me. Looking forward to it
 Mykola Kyrychenko 6:48 PM
 Hi Abdul, great
 You can choose a time slot that works best for you in my calendar below
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-6:48 PM
+Mykola Kyrychenko 6:48 PM wants to schedule a 30-minute meeting
+
 Waiting for Abdul to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 AR
-Abdul Rehman scheduled a meeting
-7:08 PM
+Abdul Rehman 7:08 PM scheduled a meeting
 Date: Feb 7, 2025
-Time: 09:30 AM - 10:00 AM (GMT)
+Time: 09:30AM - 10:00AM (GMT)
 Cancel | Reschedule | Add to calendar
 Thank you for sharing
 Wednesday, Feb 05
-Mykola Kyrychenko 6:28 PM
 
 ---
 
@@ -2931,11 +2925,10 @@ Looking forward to connecting soon.
 Thank you.
 Mykola Kyrychenko 4:35 PM
 Hi Jyoti,
-Wednesday at 12:00 PM (GMT) works perfectly for me. Looking forward to discussing all the details on the call!
+Wednesday at 12:00PM (GMT) works perfectly for me. Looking forward to discussing all the details on the call!
 Let me know if you need anything in the meantime.
 Feel free to book this slot in my calendar here:
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-4:35 PM
+Mykola Kyrychenko 4:35 PM wants to schedule a 30-minute meeting
 Waiting for Jyoti to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Sunday, Feb 16
@@ -2945,8 +2938,7 @@ Hi Mykola, apologies we're all booked up on Wednesday now - Would you be able to
 We look forward to hearing back from you.
 Best regards
 JR
-Jyoti Rani wants to schedule a 30-minute meeting
-5:49 PM
+Jyoti Rani 5:49 PM wants to schedule a 30-minute meeting
 Schedule your meeting with Jyoti
 Pick a date and time
 Monday, Feb 17
@@ -3051,12 +3043,10 @@ I hope your travels were safe. How is this week to setup a meeting? Does it work
 Thanks
 Simmy
 Tuesday, Feb 25
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-5:36 PM
+Mykola Kyrychenko 5:36 PM wants to schedule a 30-minute meeting
 Waiting for Simmy to pick a date and time. Preview what your booking page looks like.
 Preview booking page
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-5:37 PM
+Mykola Kyrychenko 5:37 PM wants to schedule a 30-minute meeting
 Waiting for Simmy to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Hi Simmy,
@@ -3104,8 +3094,7 @@ Looking forward to the conversation.
 Best Regards,
 Dereck
 Sunday, Mar 09
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-1:14 PM
+Mykola Kyrychenko 1:14 PM wants to schedule a 30-minute meeting
 Waiting for Dereck to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Hi Dereck,
@@ -3315,8 +3304,7 @@ Tuesday, Nov 05, 2024
 TS
 Tore Skjaergaard 9:10 AM
 Please share your calender for meeting booking
-Mykola Kyrychenko wants to schedule a 45-minute meeting
-12:42 PM
+Mykola Kyrychenko 12:42 PM wants to schedule a 45-minute meeting
 Waiting for Tore to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Here, looking forward talking to you
@@ -3343,7 +3331,6 @@ Please estimate an MVP technical set up for a plumber on call AI voice assistant
 I expect the MVP set up to be a small job.
 Introduction - Conversational voice AI agents | ElevenLabs Documentation
 Deploy customized, conversational voice agents in minutes.
-Mykola Kyrychenko 7:21 PM
 
 ---
 
@@ -3403,7 +3390,7 @@ Thank you for your proposal. We have shortlisted your submission and would like 
 AI-Powered Candidate Search: How will the system use AI and NLP to query the database and display relevant candidates for a job post based on different filters.
 Candidate Shortlisting: How will the system use AI/ML to automatically provide a shortlist of top candidates from the database for a posted job?
 Please include a fixed cost quote, project timeline, and milestones.
-Let me know your availability for a call this week between 9 AM and 4 PM CST.
+Let me know your availability for a call this week between 9AM and 4PM CST.
 Best Regards,
 Sindhu Nellibandla
 Product Manager
@@ -3430,24 +3417,22 @@ Regarding timeline and miletstones, it is hard to tell exactly now. I would expe
 Tuesday, Feb 18
 SN
 Sindhu Nellibandla 7:20 PM
-Hi Mykola, are you available 11 30 AM CST tomorrow?
+Hi Mykola, are you available 11:30AM CST tomorrow?
 Wednesday, Feb 19
 Mykola Kyrychenko 11:29 AM
 Hi Sindhu,
 Yes, it works.
 Please book this time in my calendar here
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-11:30 AM
+Mykola Kyrychenko 11:30 AM wants to schedule a 30-minute meeting
 Waiting for Sindhu to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Mykola Kyrychenko 5:11 PM
 Hello,
 Are we having a call today ?
 SN
-Sindhu Nellibandla scheduled a meeting
-7:08 PM
+Sindhu Nellibandla 7:08 PM scheduled a meeting
 Date: Feb 26, 2025
-Time: 05:00 PM - 05:30 PM (GMT)
+Time: 05:00PM - 05:30PM (GMT)
 Cancel | Reschedule | Add to calendar
 Hi Mykola, I missed the Upwork message. I see you're next available on Feb 26th. Went ahead and booked.
 Saturday, Feb 22
@@ -3456,7 +3441,6 @@ Hello Sindhu,
 Could you do like 2 hours later on Friday? I will be coming back from a plane from AI conference so not sure if will make it on time, alternatively we can do on Saturday. Also, just reviewed again your project, really excited to discuss it, have been trying to hire a person recently and it was a big struggle, feel like AI and what you are doing will be a big positive force in the recruiting space
 Tuesday, Feb 25
 SN
-Sindhu Nellibandla 7:10 PM
 
 ---
 
@@ -3506,16 +3490,14 @@ great, this coming Tuesday works great. Do you have an email so i can send over 
 Mykola Kyrychenko 1:35 PM
 Can you send me a contract on upwork, than i can share; otherwise it would flag it and will not shwo to you as it is against their policy to share personal details before signing contract
 it doesn't force any payments on anything from you, just allows to share details freely
-daniel andrews sent an offer
-1:37 PM
+daniel andrews 1:37 PM sent an offer
 We are seeking an experienced AI Developer to create intelligent agents utilizing Large Language Models (LLMs). The ideal candidate will have a deep understanding of LLM architecture and experience in implementing AI solutions that can effectively interact and perform tasks autonomously. Your role will involve designing, training, and optimizing AI agents for various applications. If you have a passion for AI and a track record of successful projects, we would love to hear from you!
 Please only apply if you have implemented ai agents, we are looking to develop 10+ agents for various tasks. Happy to chat and talk more on the opportunity.
 Rate: $61.00/hr
 Rate increase: None
 Limit: 40 hrs/week
 sent, let me know if that works
-Mykola Kyrychenko accepted an offer
-1:38 PM
+Mykola Kyrychenko 1:38 PM accepted an offer
 -
 yeah worked, sending details now
 m.kyrychenko@graph-it.co.uk
@@ -3525,11 +3507,11 @@ Where abouts in London are you?
 Mykola Kyrychenko 4:09 PM
 Shepherds Bush
 Perfect
-daniel andrewsApr 2, 2025 | 3:28 PM
+daniel andrews 3:28 PM
 Just sent you the NDA
 Mykola Kyrychenko 5:07 PM
 I didn't receive it for some reason
-daniel andrewsApr 2, 2025 | 3:28 PM
+daniel andrews 3:28 PM
 Just sent you the NDA
 daniel andrews 7:09 PM
 Weird, let me try again when by my laptop
@@ -3698,14 +3680,13 @@ London
 Friday, Apr 11
 PK
 Panos Karachalios 11:14 AM
-Mykola we have a meeting in 45 minutes, at 2:00 p.m. Athens time. Could we please do it at 2:30 pm?
+Mykola we have a meeting in 45 minutes, at 2:00p.m. Athens time. Could we please do it at 2:30pm?
 Mykola Kyrychenko 11:24 AM
 Yes, that's good
 PK
 Panos Karachalios 11:27 AM
 Excellent, thanks!
-Mykola Kyrychenko created a Zoom meeting
-12:31 PM
+Mykola Kyrychenko 12:31 PM created a Zoom meeting
 The meeting ended (Duration: 01:01:04)
 Share feedback about the call quality
 PK
@@ -3879,8 +3860,7 @@ Saturday, May 03
 Mykola Kyrychenko 9:29 AM
 I was AI tech lead
 Monday, May 05
-Amin Osmani wants to schedule a 30-minute meeting
-3:26 PM
+Amin Osmani 3:26 PM wants to schedule a 30-minute meeting
 Schedule your meeting with Amin
 Pick a date and time
 thank you Mykola. What's your availability like for a 30min chat. Here's my calendar to help us find some time. Once you pick a slot i will extend the invitation to our CTO to include him on this discussion
@@ -4089,8 +4069,7 @@ Thursday, May 15
 Mykola Kyrychenko 3:11 PM
 Yeah, this is not hard, i now have built a complex Sales Chatbot for yacht rentals in Ibiza; I have good experience with calls too, the video is the only tricky one but we can figure out i think, tools like HeyGen got a very strong update recently, before it was nearly impossible ( if we are talking about person talking with lip sync)
 be happy to discuss further
-Mykola Kyrychenko wants to schedule a 30-minute meeting
-3:11 PM
+Mykola Kyrychenko 3:11 PM wants to schedule a 30-minute meeting
 Waiting for Juan to pick a date and time. Preview what your booking page looks like.
 Preview booking page
 Wednesday, May 21

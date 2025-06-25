@@ -1,3 +1,6 @@
+import re
+import json
+
 with open("cases.txt", "r") as file:
     content = file.read()
 words = content.strip().split() 
@@ -17,7 +20,7 @@ for w in words:
             "Project Description": "",
             "Cover Letter Sent": "",
             "Chat History": ""
-        }  #adds the number of the chapter and it's value to the dictionary
+        } 
         current_section = None #reset the current section
         is_case = False
         continue
@@ -28,11 +31,11 @@ for w in words:
         current_section = "Project Description"
         is_rombik = False
         continue
-    if "Sent:" in w:
+    elif "Sent:" in w:
         current_section = "Cover Letter Sent"
         is_rombik = False
         continue
-    if "History:" in w:
+    elif "History:" in w:
         current_section = "Chat History"
         is_rombik = False
         continue
@@ -41,55 +44,49 @@ for w in words:
     if case_num and current_section:
         result[case_num][current_section] += " " + w
 
-import re
-chat_messages = {} # dictionary for chat history
-
 for num, data in result.items():
     for section, text in data.items():
         if section != "Chat History":
             continue
 
         words = text.strip().split()
-        messages = [] #will store the message strings in the format speaker : message, they are also split below
+        # words.append("00:00")
+        messages = []
         speaker = ""
-        msg = ""
-        prev = [] # used to track two previous words
-        collecting = False # a flag indicating if we are currently collecting a message for a speaker
-
+        msg_collect = ""
+        after_timestamp = False
+        prev = [] 
+        
         for w in words:
-            if re.fullmatch(r"\d{1,2}:\d{2}", w) and len(prev) >= 2: # checked that w is an actual timestamp and we have 2 names for the name and surname
-                if collecting:
-                    messages.append(f"{speaker}: {msg.strip()}")
-                speaker = f"{prev[-2]} {prev[-1]}"
-                msg = ""
-                collecting = True
-                continue
-
-            if collecting:
-                msg += " " + w
+            if re.fullmatch(r"\d{1,2}:\d{2}", w) and len(prev) >= 2: 
+                    if speaker: # basically if a speaker exists
+                        msg_clean = re.sub(r"^(AM|PM)\s+", "", ' '.join(msg_collect.strip().replace('--- ##', '').strip().split()[:-2]))
+                        messages.append(f"{speaker}: {msg_clean}")
+                    speaker = f"{prev[-2]} {prev[-1]}"
+                    msg_collect = ""
+                    prev = []
+            elif speaker: #runs if the current code is not a timestamp and if speaker is set
+                msg_collect += " " + w
             prev.append(w)
-            if len(prev) > 3:
+            if len(prev) > 2:
                 prev.pop(0)
+        if msg_collect:
+            msg_clean = re.sub(r"^(AM|PM)\s+", "", msg_collect.strip().replace('--- ##', '').strip())
+            messages.append(f"{speaker}: {msg_clean}")
+         
+        data["Chat History"] = messages
 
-        if collecting and msg.strip():
-            messages.append(f"{speaker}: {msg.strip()}")
-                
-        chat_messages[num] = [m.replace(": AM ", ": ", 1).replace(": PM ", ": ", 1) for m in messages]
-
-for num, data in result.items():
-    if num in chat_messages:
-        data["Chat History"] = chat_messages[num]
-    else:
-        data["Chat History"] = ["No messages found."]
-
+### Printing Output ###
 for num, data in result.items():
     print(f"\nCase {num}:")
     for section, content in data.items():
         print(f"  {section}:")
         if isinstance(content, list):
-            for msg in content[:3]:  # show first 3 messages
-                print("   ", msg)
+            for msg_collect in content:
+                print("   ", msg_collect)
         else:
             print("   ", content[:50], "...")
 
+with open("parsed_cases.json", "w", encoding="utf-8") as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
 
