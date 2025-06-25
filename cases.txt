@@ -21,6 +21,7 @@ Let's have a call to discuss details further
 Looking forward for your reply
 
 ### 🔹 Chat History:
+Tom Curry 9:17 AM
 Hey Mykola, thanks for applying. Sure what else would you like to know? Did you read the document in full, did you have any suggestions please? Also see the two questions in the document which I was unsure about.
 Last one - as you are new to Upwork. Do you have LinkedIn or anything to see reviews please?
 Look forward to hearing from you
@@ -139,6 +140,7 @@ Database Content and Retrieval: Even though the database contains many relevant 
 [MISSING]
 
 ### 🔹 Chat History:
+N A 12:00 AM
 Can you help me with current RAG having issues on retriavaI can show you I think there are issues we face challenges and inconsistencies in the performance of a Retrieval-Augmented Generation (RAG) system, particularly when dealing with specific and complex queries.
 Inconsistent Relevance: The RAG system sometimes retrieves relevant answers but fails to do so at other times, especially with more specific questions.
 Fine-Tuning and Model Versions: The conversation mentions testing on different versions of the GPT model, including a fine-tuned version and GPT-4.
@@ -199,6 +201,7 @@ Link to the case in portfolio (has video representation)
 Looking forward to your reply and good luck with the project!
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Interesting task, it is exactly what I did on my recent project working on LLM-based chatbot for e-learning and recruiting for high-profile German company where part of functionality included extracting information from pdf CVs and recommending the best candidates based on relevant criteria. I am confident that I can help you to develop your own application suitable for any specific form of documents needed to be filled.
 𝗕𝗿𝗼𝗮𝗱𝗲𝗿 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗼𝗳 𝗺𝘆 𝗿𝗲𝗰𝗲𝗻𝘁 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
@@ -259,6 +262,7 @@ Link to the case in portfolio (has video representation)
 Looking forward to your reply and good luck with the project!
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Interesting task, it is always interesting to dive deep into the model. Recently, I had a project working on LLM-based chatbot for e-learning and recruiting for high-profile German company utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. For efficiency sake, it involved quite a bit of advanced fine tuning too. I am confident that I can advice how to build and tune your model efficiently.
 𝗕𝗿𝗼𝗮𝗱𝗲𝗿 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗼𝗳 𝗺𝘆 𝗿𝗲𝗰𝗲𝗻𝘁 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
@@ -372,6 +376,7 @@ Recently I had a project working on LLM-based chatbot for e-learning and recruit
 Looking forward to your reply and good luck with the project! It looks like something with potential!
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Really interesting project, something I would love to have back in uni. While idea is interesting, it is something complicated to implement, since as you might know image generators are not working very well with text yet, making not existing words as part of picture and heavy spelling mistakes. I think I have an idea regarding architecture of your platform MVP to overcome this without committing to large scale development. We can separate image generation and text generation, put images generated in certain position, let's say 3 images per page at predetermined locations and add text nearby to it. Images would be generated based on text near it. The text would be typed using certain font which looks like handwriting, but not generated in form of picture. The structure would allow to maintain quality while not making POC stage too long and expensive.
 Recently I had a project working on LLM-based chatbot for e-learning and recruiting for BMW (car company one) utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. I am confident that I can help you to develop your own platform POC. Regarding image generation, i have tested them myself a lot, but didn't participate in large development yet.
@@ -447,6 +452,7 @@ Link to the case in portfolio (has video representation)
 Looking forward to your reply and good luck with the project!
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Interesting task, I worked with e-commerce startup before, was very interesting.
 Recently I had a project working on LLM-based chatbot for e-learning and recruiting for BMW (car company one) utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. I am confident that I can support AI development for your platform.
@@ -579,6 +585,7 @@ Looking forward for your reply,
 Regards, Mykola
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Interesting task, love working on project directly aimed at customers. Recently I had a similar project working on LLM-based chatbot for e-learning and recruiting utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. I am confident that I can help you developing your own LLM assistant for trainers.
 Broader Description of my recent project:
@@ -719,6 +726,7 @@ OpenAI models, Llama-2, OpenAI Embeddings, HuggingFace Embeddings, LlamaIndex, L
 Чекаю вашої відповіді і всього найкращого з проектом!
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Привіт 🌍,
 Цікавий проект, завжди цікаво працювати на проектах де зразу буде прикладне застосування. Недавно в мене був схожий проект по LLM чатботу для навчання і рекрутингу для BMW, на базі Llama, Langchain, GPT і домашніх моделей захощених на Azure. Виглядає, що вам можуть бути схожі функціональні частини, наприклад оцінка людей по CV. Я впевнений що зможу допомогти вам імплементувати чатбота на вашу платформу.
 Ваш проект складно оцінити без чіткішого розуміння завдання і даних які є, так як не зрозуміло чи модель потрібно дотреновувати чи достатньо RAG системи для роботи з базою даних, наскільки складна імплементація на платформу і тд. Але зазвичай такі проекти займають 1-4 місяці, де 1 місяць це Proof of Concept проекти а 4 це складніша розробка.
@@ -758,6 +766,7 @@ Hope my undetectable application would be detected by you 🙂
 Interesting task, it is always great to work on complicated technical projects. Recently I had a project working on LLM-based chatbot for e-learning and recruiting for BMW (car company one) utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. Additionally, I am working on developing bots that would be talking human-like e.g. psychologist bot. In terms of NLP i got advanced experience as well building a search engine for academic articles, which I believe could have certain similarities with what you are building but in reverse, since algorithms will be searching for AI content. I am confident that I can help you to develop your own solution.
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey Patrick,
 Hope my undetectable application would be detected by you 🙂
 Interesting task, it is always great to work on complicated technical projects. Recently I had a project working on LLM-based chatbot for e-learning and recruiting for BMW (car company one) utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. Additionally, I am working on developing bots that would be talking human-like e.g. psychologist bot. In terms of NLP i got advanced experience as well building a search engine for academic articles, which I believe could have certain similarities with what you are building but in reverse, since algorithms will be searching for AI content. I am confident that I can help you to develop your own solution.
@@ -826,6 +835,7 @@ Interesting task, it is always great to work on complex end-to-end projects. Rec
 Would love to chat about it !
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Interesting task, it is always great to work on complex end-to-end projects. Recently I have been leading an LLM side of development of learning and recruting tool used by large German automotives such as BMW and VW. I am confident i can help you with the project design, architecture and feasibility assesment.
 Would love to chat about it !
@@ -902,6 +912,7 @@ Link to the case in portfolio (has video representation)
 Looking forward to your reply and good luck with the project!
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there 🌍,
 Interesting task, it is always great to work on [project having direct real life application, diving deep into the model, etc.] Recently I had a similar project working on LLM-based chatbot for e-learning and recruiting for BMW (car company one) utilizing Llama, Langchain, GPT and proprietary models hosted on Azure. I am confident that I can help you to develop your own solution.
 𝗕𝗿𝗼𝗮𝗱𝗲𝗿 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗼𝗳 𝗺𝘆 𝗿𝗲𝗰𝗲𝗻𝘁 𝗕𝗠𝗪 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
@@ -986,6 +997,7 @@ CosmosDB and utilized LangSmith for rigorous platform evaluation.
 Technologies: GPT models, OpenAI Embeddings, Langchain, CrewAi/LangGraph, RAG, WeaviateDB, Streamlit, Azure,
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hey there,
 Interesting task, I actually worked for legal project in Switzerland recently, building a generalized legal search platform. I am confident that I can help you to develop PoC of your own specialized assistant. This PoC actually would be quite fast to implement.
 𝗕𝗿𝗼𝗮𝗱𝗲𝗿 𝗗𝗲𝘀𝗰𝗿𝗶𝗽𝘁𝗶𝗼𝗻 𝗼𝗳 𝗺𝘆 𝗿𝗲𝗰𝗲𝗻𝘁 𝗹𝗲𝗴𝗮𝗹 𝗽𝗿𝗼𝗷𝗲𝗰𝘁:
@@ -1120,6 +1132,7 @@ looking for an expert to build a GraphRAG application to query a knowledge graph
 [MISSING]
 
 ### 🔹 Chat History:
+Paul Kullich 12:00 PM
 Hi Mykola
 I am looking for an expert to build a GraphRAG application to query a knowledge graph in Neo4j using natural language. Are you open to new projects at the present time?
 Best
@@ -1834,6 +1847,7 @@ Please refer to the ToRs for a detailed breakdown of each component. Let me know
 [MISSING]
 
 ### 🔹 Chat History:
+Asaad Taha 12:00 AM
 Hello!
 I'd like to invite you to take a look at the job I've posted. Please submit a proposal if you're available and interested.
 Asaad T.
@@ -1972,6 +1986,7 @@ We are seeking an experienced AI developer to create an automated agent for chas
 [MISSING]
 
 ### 🔹 Chat History:
+N A 12:00 AM
 Hello!
 I'd like to invite you to take a look at the job I've posted. Please submit a proposal if you're available and interested.
 https://miro.com/app/board/uXjVKhxJXEI=/
@@ -2237,7 +2252,7 @@ building an AI Agent system around a.Vehicle Damage Detection model we built usi
 [MISSING]
 
 ### 🔹 Chat History:
-Nick Dy Lim 5:57 AM
+Nick Lim 5:57 AM
 Hi Mykola
 Great to meet you!
 My team is interested in building an AI Agent system around a.Vehicle Damage Detection model we built using Computer Vision. After stumbling on your profile it'd be great to connect as we're looking for an AI agent expert to help in building this out. 🙂
@@ -2255,7 +2270,7 @@ Likewise, nice to meet you:)
 That sounds like an interesting project you are doing, not many people yet combine Agents with CV, seems intriguing.
 Sent a calendar invite. Thursday would be the best for me if it works
 ND
-Nick Dy Lim scheduled a meeting
+Nick Lim scheduled a meeting
 1:35 PM
 Date: Jan 10, 2025
 Time: 10:00 AM - 10:30 AM (GMT)
@@ -2266,7 +2281,7 @@ Nick
 Mykola Kyrychenko 2:45 PM
 It works, looking forward to it!
 ND
-Nick Dy Lim 3:10 PM
+Nick Lim 3:10 PM
 Amazing! Looking forward as well! 😄
 
 ---
@@ -2436,6 +2451,7 @@ Please provide:
 Hello! I’ve reviewed your project and outlined an approach to build your AI solution. Let’s connect at your earliest convenience to discuss the details. Recently, I completed a complex AI project for BMW, delivering tailored solutions that enhanced their operations. I’m confident I can bring similar value to your project. I’d love to discuss your specific needs in more detail. Please feel free to share any questions or let me know a convenient time to connect.
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hello! I’ve reviewed your project and outlined an approach to build your AI solution. Let’s connect at your earliest convenience to discuss the details. Recently, I completed a complex AI project for BMW, delivering tailored solutions that enhanced their operations. I’m confident I can bring similar value to your project. I’d love to discuss your specific needs in more detail. Please feel free to share any questions or let me know a convenient time to connect.
 View details
 CV_SN.pdf
@@ -2897,6 +2913,7 @@ Mykola Kyrychenko 3:45 PM
 Hi! Your project aligns perfectly with my expertise. Recently I completed a complex AI project for BMW, delivering tailored solutions that enhanced their operations, and I’m confident I can bring similar value to your project. I’d love to discuss your project further and your specific needs in more detail. Please feel free to share any questions or let me know a convenient time to connect.
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hi! Your project aligns perfectly with my expertise. Recently I completed a complex AI project for BMW, delivering tailored solutions that enhanced their operations, and I’m confident I can bring similar value to your project. I’d love to discuss your project further and your specific needs in more detail. Please feel free to share any questions or let me know a convenient time to connect.
 JR
 Jyoti Rani 3:45 PM
@@ -3058,6 +3075,7 @@ I’m Dereck from Trainest, a startup fitness app. We are looking for someone to
 [MISSING]
 
 ### 🔹 Chat History:
+Derek Rizo 12:00 AM
 Hi Mykola
 I’m Dereck from Trainest, a startup fitness app. We are looking for someone to help us create an AI chatbot that acts as a virtual fitness coach, using ChatGPT but fine-tuned for workout guidance and training advice. It should feel natural and engaging and provide context-aware fitness support. Let me know if you're interested or have experience with this project.
 Best Regards,
@@ -3070,7 +3088,7 @@ Let me know your availability and will be happy to discuss it further,
 I am on AI Summit in Qatar right now so ideally if we do it once i'm back. I will be back to London next Friday, so we can discuss on upcoming Saturday. If you are in a hurry to develop we can figure out a short call during the week.
 I know exactly how to make this app stand out and will be happy to help you.
 DR
-Dereck Rizo PatronFeb 22, 2025 | 12:35 AM
+Dereck Rizo 12:35 AM
 Hi Mykola
 I’m Dereck from Trainest, a startup fitness app. We are looking for someone to help us create an AI chatbot that acts as a virtual fitness coach, using ChatGPT but fine-tuned for workout guidance and training advice. It should feel natural and engaging and provide context-aware fitness support. Let me know if you're interested or have experience with this project.
 Best Regards,
@@ -3078,7 +3096,7 @@ Dereck
 Show more
 Friday, Mar 07
 DR
-Dereck Rizo Patron 9:14 PM
+Dereck Rizo 9:14 PM
 Hi Mykola,
 Great to hear you’re interested! We’ve shifted our focus to developing a custom AI agent for generating personalized workout plans based on user assessments, including goals, available equipment, injuries, and experience level. While a chatbot is still something we plan to explore in the future, we’re prioritizing this first.
 If this still interests you, we’d love to set up a time to discuss how you can help. Let us know your availability, and we’ll schedule a call!
@@ -3107,6 +3125,7 @@ Looking forward to hearing from you
 [MISSING]
 
 ### 🔹 Chat History:
+Rayi Stern 12:00 AM
 Hi Mykola
 Hello, We're starting a fine tuning project, and want someone to consult with and oversee progress. This is part of a larger RAG system which we can also be in touch about.
 Looking forward to hearing from you
@@ -3141,6 +3160,7 @@ Relevant work:
 🔹 Senior Care Agent - GPT-4 assistant analyzing 3,000+ calls/month from nurses
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 00:00 AM
 Hi! I recently built an AI assistant for a mental health platform where users described symptoms in their own words - and the chatbot responded with suggestions based on therapy data and clinician-designed flows. Your healthcare idea is very familiar. I’ve worked on LLM apps that take symptoms as input and return diagnosis-like suggestions or next steps - while handling sensitive data and making outputs safe and traceable. With models like GPT-4 and Mistral, I can build a doctor-facing assistant that pulls from structured sources or guideline-based prompts.
 Do you already have a source of medical info (text files, PDFs, site) to use in the responses?
 Relevant work:
@@ -3240,6 +3260,7 @@ We look forward to working with a talented developer/team to bring this prototyp
 [MISSING]
 
 ### 🔹 Chat History:
+Tore Skjaergaard 12:00 AM
 Hello!
 I'd like to invite you to take a look at the job I've posted. Please submit a proposal if you're available and interested.
 Tore S.
@@ -3557,6 +3578,7 @@ Hi! I’ve worked on something very close - a mental health chatbot called Avoca
 Here’s the case:
 
 ### 🔹 Chat History:
+Mykola Kyrychenko 12:00 AM
 Hi! I’ve worked on something very close - a mental health chatbot called Avocado AI. It’s trained on 90+ hours of real therapy sessions and built to feel human in tone, structure, and emotional response. I fine-tuned multiple models (GPT-3.5, Llama2, Mistral, Llama3) to make the agent reflect real-life empathy and guide users through personalized conversations - happy to help fine-tune your LLM, build lifelike interactions.
 Here’s the case:
 https://www.upwork.com/freelancers/~017d5e791db8e06f2e?p=1877274590540410880
@@ -3620,6 +3642,7 @@ Pass this combined list of candidate documents (along with the original query) t
 [MISSING]
 
 ### 🔹 Chat History:
+Panos Karachalios 12:00 AM
 Hi Mykola!
 Please have a look at our job post which is very relevant to a legal platform you did for Swiss.
 Best,
